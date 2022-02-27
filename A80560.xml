@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from His Majetties [sic] court at Holmbie. With advertisement of propositions from the King to the Parliament; in answer to the propositions for peace. With His Majesties consent to have the Presbyterian government setled for three yeares. And other particulars concerning the Queenes letter to His Majestie.</title>
+            <author>Corbet, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80560</idno>
+            <idno type="STC">Wing C6274</idno>
+            <idno type="STC">Thomason E388_16</idno>
+            <idno type="STC">ESTC R201511</idno>
+            <idno type="EEBO-CITATION">99862013</idno>
+            <idno type="PROQUEST">99862013</idno>
+            <idno type="VID">114160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114160)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E388[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from His Majetties [sic] court at Holmbie. With advertisement of propositions from the King to the Parliament; in answer to the propositions for peace. With His Majesties consent to have the Presbyterian government setled for three yeares. And other particulars concerning the Queenes letter to His Majestie.</title>
+                  <author>Corbet, Roger.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>May 21. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Ho lmby [sic], 15 May 1647. Roger Corbet.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114160:1" rendition="simple:additions"/>
+            <p>A LETTER FROM HIS MAJETTIES COVRT AT HOLMBIE WITH Advertiſement of <hi>Propoſitions</hi> from the King to the Parliament; in Anſwer to the <hi>Propoſitions for Peace.</hi>
+            </p>
+            <p>With His Majeſties conſent to have the <hi>Presbyte<g ref="char:EOLhyphen"/>rian Government</hi> ſetled for three yeares. And other particulars concerning the Queenes Letter to His MAJESTIE.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>printer's device, consisting of a central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles, all of these figures enclosed within a rectangle flanked by angel on the left and right</figDesc>
+            </figure>
+            <p>London, Printed by <hi>B. A. May</hi> 21. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114160:2"/>
+            <pb facs="tcp:114160:2"/>
+            <opener>
+               <salute>Right Honourable;</salute>
+            </opener>
+            <p>I Had thought to have been at <hi>London</hi> before this, but ſeeing that I have been prevented, I ſhall make this uſe of my ſtay, to acquaint your Honour, that about 3 weeks ſince, one (who cals her ſelf the) Lady <hi>Cave</hi> (as ſhe ſaith) received a letter for the King, which letter was brought to her from the queen in <hi>France,</hi> by a French Gentleman, (but) he ſaid, by her ſervant, perhaps he, was ſo (in ſome ſence.) This Lady <hi>Cave</hi> is a Gentlemans daughter about <hi>Stamford,</hi> whether ſhe hath marryed ſome Knight, or Col. of the Kings party, or how ſhe comes to be a Lady, <hi>I</hi> know not, but it ſeems that upon the receit of the ſaid letter, from the Queen to his Maj. ſhe addreſſed her ſelfe to another Gentlewoman who liveth in theſe parts, an acquaintance of hers, who was to be the Uſherer of her buſi<g ref="char:EOLhyphen"/>neſſe, thus.</p>
+            <pb facs="tcp:114160:3"/>
+            <p> The ſaid Gentlewoman being as great a Royaliſt as her ſelfe, came (before the Lady <hi>Cave</hi>) into theſe parrs, and viſited Captaine <hi>Abbots</hi> Landlady, ſome five miles from <hi>Holmby</hi> Houſe where he quarters, being one of the Captaines who are under Collonell <hi>Graves</hi> for this buſi<g ref="char:EOLhyphen"/>neſſe of wayting upon His Majeſties Perſon at <hi>Holmby,</hi> and (it ſeemes) confiding in her, that ſhe would be faith<g ref="char:EOLhyphen"/>full to her deſigne, lay there ſome nights, untill ſhee had prevailed by her Laudladies meanes with Captaine <hi>Ab<g ref="char:EOLhyphen"/>bot,</hi> who is a very honeſt faithfull Gentleman, but being ignorant of any deſigne (by her importunity) ſhe prevai<g ref="char:EOLhyphen"/>led, to procure with him, to get her to kiſſe the Kings hand, which ſhe did at <hi>Holmby.</hi>
+            </p>
+            <p>After ſhe ſaw how the way lay for the Lady <hi>CAVE</hi> (by doing the like to put the Letter into the Kings hands, which ſhe had to deliver to Him from the Queene, ſhee againe addreſſed her ſelfe to the Lady <hi>Cave,</hi> having firſt contracted with this Gentlewoman to lye at her houſe, end by her meanes to prevaile with Captain <hi>Abbot,</hi> to make way for her to kiſſe the Kings hand if ſhe could.</p>
+            <p>The Lady <hi>Cave</hi> accordingly came, and lay there, with the Letter, and the Gentlewoman had importuned Capt. <hi>Abbot</hi> to procure way for her to kiſſe the Kings hand, which the Gentleman (thinking no harme, as any other, in civility to his Landlady, deſiring it would have done, was willing to try an offer of it; in her behalfe.</p>
+            <p>His Landlady conceiving that a buſineſſe of ſo great weight was fit to be imparted to her husband, to require his aſſiſtance, for the better carrying of it on, acquainted him with it, and with the manner of the progreſſe that was made in it.</p>
+            <pb facs="tcp:114160:3"/>
+            <p> The man (however it is ſuppoſed, that hee is ſo farre a Royaliſt, that he had a good will (probably) to have aſ<g ref="char:EOLhyphen"/>ſisted it, yet) conſidering that if it ſhould bee diſcovered, which by all likelyhood it would, becauſe of the Com<g ref="char:EOLhyphen"/>miſſioners about the King their vigilant eyes, he durſt not run the hazzard of ſecrefie to the buſineſſe, but acquaint<g ref="char:EOLhyphen"/>ed Capt. <hi>Abbot</hi> with the buſineſſe.</p>
+            <p>The time being come wherein thr Lady <hi>Cave</hi> ſhould go to <hi>Holmby</hi> to the King (ſhee little thinking that Capt. <hi>Abbot</hi> knew her buſineſſe) to Holmby they went, and be<g ref="char:EOLhyphen"/>ing alighted, the Captain addreſſed himſelfe to the Com<g ref="char:EOLhyphen"/>miſſioners, to acquaint them with the deſigne ſhee had, to deliver a Letter to the King, and that under pretence to kiſſe his Majeſties hand, ſhee was then come to deliver it.</p>
+            <p>Hereupon ſhe was appointed preſently to be taken into a room to be ſearched for the ſaid Letter. But notwithſtanding all this care, and that ſhe had the Letter about her when ſhe went into the roome, yet ſhe (they being by) had ſo conveyed away her Letter, that nothing was found about her; but ſhe ſaid, that ſhe had a Letter to deliver to the King, and that it ſhould be delivered.</p>
+            <p>So the Commiſſioners after they had exami<g ref="char:EOLhyphen"/>ned her, ſent her priſoner to the Mayor of <hi>Northampton,</hi> ſhe is a very handſome Lady, and wondrous bold.</p>
+            <pb facs="tcp:114160:4"/>
+            <p> Some 2 or 3 dayes after (upon an accident) the <hi>Letter</hi> was found behind an hanging, in the room where ſhe was ſearched, <hi>where it ſeemes ſhe had put it, when ſhe ſtood with her back to the Hang<g ref="char:EOLhyphen"/>ings, and conveyed it with her hands behind her, whileſt ſhe talked with the Gentlewomen.</hi>
+            </p>
+            <p>The letter is all Charactors, ſo that none can underſtand what they import.</p>
+            <p>After this, His Majeſty was two or three dayes very private in writing, and then told the Earle of <hi>Denbigh,</hi> and the reſt of the Com<g ref="char:EOLhyphen"/>miſſioners, that be wondered the Propoſitions were not ſent to him. And that he had drawne up Propoſitions (from what was preſented to him formerly at <hi>Newcaſtle</hi>) to be ſent to the Parliament, appointing them to be ſent forth<g ref="char:EOLhyphen"/>with.</p>
+            <p>And accordingly on <hi>Thurſday</hi> laſt, a meſſen<g ref="char:EOLhyphen"/>ger was diſpatched, with a letter from his Ma<g ref="char:EOLhyphen"/>jeſty, directed to the Speaker of the Houſe of Piers, <hi>pro tempore,</hi> to be communicated to the <hi>two Houſes of Parliament at Weſtminſter aſſem<g ref="char:EOLhyphen"/>bled, and to the Scots Commiſſioners.</hi>
+            </p>
+            <p>His Majeſty told the Commiſſioners that He hoped, they would juſtifie him to the Parlia<g ref="char:EOLhyphen"/>ment, the City, and the Kingdome.</p>
+            <pb facs="tcp:114160:4"/>
+            <p> The letter propound<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (by His Majeſty) to conſent to have <hi>Militia</hi> ſetled for ten yeares, the <hi>Presbyterian Government</hi> for three years, the <hi>Publique Debts</hi> ſatisfied, His owne paid, and many other particulars very large.</p>
+            <p>Concerning the queſtion your Honour de<g ref="char:EOLhyphen"/>ſires to be ſatisfied in, whether the Army, or a<g ref="char:EOLhyphen"/>ny from them, did ſend, or offer to ſend any Petition, or any thing elſe to the King, or rece<g ref="char:EOLhyphen"/>ved any thing from the King, I can aſſure you, that there is not ſo much as any reſemblance of ſuch a thing, nor hath his Majeſty ſpoken any thing relating to any buſineſſe in that kind of himſelfe, nor any wayes any ſhaddow or colour for ſuch a buſineſſe to be related; and therefore, who ever report it, do much traduce, both the King, and alſo the Army.</p>
+            <p>His Majeſty told the Commiſſioners the o<g ref="char:EOLhyphen"/>ther day, that He could wiſh He was at <hi>London,</hi> that the Church and Kingdome were ſetled.</p>
+            <p>And they told Him, that the Propoſitions would ſpeedily be ſent to Him, to be paſſed for that purpoſe.</p>
+            <p>His Majeſty is very inquiſitive concerning the affaires of <hi>Ireland,</hi> the Officers, and number of Forces. His Majeſty writes all his owne pa<g ref="char:EOLhyphen"/>pers
+<pb facs="tcp:114160:5"/>himſelf. This is all that I have to trouble your Honour with at preſent, who am at all times.</p>
+            <closer>
+               <dateline>Holmby, <date>15 May 1647.</date>
+               </dateline> 
+               <signed>Your Honours humble ſervant, <hi>ROGER CORBET.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
